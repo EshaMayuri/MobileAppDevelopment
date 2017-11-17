@@ -1,0 +1,1169 @@
+[
+    {
+        "outputFile": "E:\\Mobile\\5\\AddressBook\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 43,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 43,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 52,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 49,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 46,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 46,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 49,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 49,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 81,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 81,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 45,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 45,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 541,
+                    "endColumn": 40,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 40,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 52,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 37,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 37,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 33,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 800,
+                        "endColumn": 33,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 39,
+                    "endOffset": 742
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 39,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 747,
+                    "endColumn": 45,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 45,
+                        "endOffset": 677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 41,
+                    "endOffset": 830
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 41,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 835,
+                    "endColumn": 74,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 74,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 35,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 35,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1232
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1237,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1392
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 43,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 43,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 52,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 49,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 46,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 46,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 49,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 49,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 81,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 81,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 45,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 45,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 541,
+                    "endColumn": 40,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 40,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 52,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 37,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 37,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 33,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 800,
+                        "endColumn": 33,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 39,
+                    "endOffset": 742
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 39,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 747,
+                    "endColumn": 45,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 45,
+                        "endOffset": 677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 41,
+                    "endOffset": 830
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 41,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 835,
+                    "endColumn": 74,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 74,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 35,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 35,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1232
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1237,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1392
+                },
+                "from": {
+                    "file": "C:\\Users\\Esha Mayuri\\Documents\\Umkc\\Sem3\\MobileApp\\LectureSourceCode\\AddressBook\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 43,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 43,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 52,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 49,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 46,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 46,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 49,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 49,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 81,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 81,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 45,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 45,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 541,
+                    "endColumn": 40,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 40,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 52,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 37,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 37,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 33,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 800,
+                        "endColumn": 33,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 39,
+                    "endOffset": 742
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 39,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 747,
+                    "endColumn": 45,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 45,
+                        "endOffset": 677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 41,
+                    "endOffset": 830
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 41,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 835,
+                    "endColumn": 74,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 74,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 35,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 35,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1232
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1237,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1392
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
