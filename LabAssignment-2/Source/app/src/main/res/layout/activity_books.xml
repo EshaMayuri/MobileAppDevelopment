@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sample.labassignment1.BooksActivity"
+    android:background="@drawable/background">
+
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/editTextView"
+        android:numColumns="3" >
+
+    </GridView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Search for books here ( Books, title or author)!"
+        android:id="@+id/editTextView"
+        android:textColor="@color/colorWhite"
+        android:textColorHint="@color/colorWhite"
+        android:text="harry potter"/>
+    <!--<TextView-->
+        <!--android:id="@+id/textView"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textSize="25dp"-->
+        <!--android:textStyle="bold"-->
+        <!--android:text="Fetched Books!" />-->
+
+</RelativeLayout>
